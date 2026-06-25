@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
+import reactLogo from './assets/logo.png'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
@@ -41,7 +41,7 @@ function App() {
           <p>Your questions, answered</p>
           <ul>
             <li>
-              <a href="https://vite.dev/" target="_blank">
+              <a href=" https://www.propelleraero.com/dirtmate/" target="_blank">
                 <img className="logo" src={viteLogo} alt="" />
                 Explore Vite
               </a>
